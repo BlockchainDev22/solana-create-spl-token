@@ -20,7 +20,7 @@ initWallet({ wallets, autoConnect: true })
           Create SPL Tokens</h1>
         <h3 class="text-center">
           You can create spl token using metaplex.<br />
-          <span>Skype ID: live:.cid.267fb4f84844ccc4</span>
+          <span></span>
         </h3>
       </div>
       <div class="mt-5">

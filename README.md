@@ -1,4 +1,4 @@
-# vue-spl-token-typescript
+# Solana create spl token
 
 ## Project setup
 ```
@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Live Demo
+See [Solana create spl token](https://solana-create-spl-token.vercel.app/).
+
+### Preview
+![alt text](https://github.com/BlockchainDev22/solana-create-spl-token/blob/main/intro.png?raw=true)
+
+
